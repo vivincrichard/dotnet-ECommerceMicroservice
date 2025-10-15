@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{487DC1E6-65FF-4D3A-89E8-8B8E92553505}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487DC1E6-65FF-4D3A-89E8-8B8E92553505}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{487DC1E6-65FF-4D3A-89E8-8B8E92553505}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\responses\\respnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487DC1E6-65FF-4D3A-89E8-8B8E92553505}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\responses\\respnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:10:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Respnose.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Responses\\Respnose.cs",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Responses\\Respnose.cs",
