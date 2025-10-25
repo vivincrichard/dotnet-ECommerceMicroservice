@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{442F75A8-F962-4340-B0FE-765086507FEB}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442F75A8-F962-4340-B0FE-765086507FEB}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{442F75A8-F962-4340-B0FE-765086507FEB}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{442F75A8-F962-4340-B0FE-765086507FEB}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,11 +41,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T03:42:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "C:\\Vivin\\DotNet\\ECommerceMicroserviceProject\\DemoECommmerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\DotNet\\ECommerceMicroserviceProject\\DemoECommmerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
@@ -49,25 +74,24 @@
               "RelativeToolTip": "..\\..\\..\\..\\DotNet\\ECommerceMicroserviceProject\\DemoECommmerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T02:51:52.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T02:51:52.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T07:26:47.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProduct.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
@@ -79,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductConversion.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversions\\ProductConversion.cs",
@@ -91,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
@@ -103,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductApi.Application.csproj",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
               "RelativeDocumentMoniker": "ProductApi.Application\\ProductApi.Application.csproj",
@@ -111,11 +135,12 @@
               "RelativeToolTip": "ProductApi.Application\\ProductApi.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T04:32:37.437Z"
+              "WhenOpened": "2025-10-20T04:32:37.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "ProductApi.Domain\\Entity\\Product.cs",
