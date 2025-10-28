@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49674048-D8E7-47C7-A94A-46B9A3BCFDB5}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\vivin\\backend\\dotnet\\ecommercemicroservice\\demoecommerce.productapisolution\\productapi.presentation\\productapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
               "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
               "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-25T04:15:00.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
               "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-25T04:13:31.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T04:13:31.261Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductApi.Presentation",
+              "Title": "ProductApi.Presentation.csproj",
               "DocumentMoniker": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "ToolTip": "C:\\Vivin\\Backend\\Dotnet\\ECommerceMicroservice\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "RelativeToolTip": "ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-25T04:13:20.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T04:13:20.756Z"
             }
           ]
         }
